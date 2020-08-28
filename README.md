@@ -5,7 +5,7 @@
 First check if you have all the modules and python 3.8 installed. I used [Pipenv](https://pypi.org/project/pipenv/ "PyPI - Pipenv") to create an environment and installed all the modules in it, I truly recommend you to do the same.
 
 
-First alter the API key at line 8 in the [alpha_vantage.py]("https://github.com/vinigalantine/quotation/tree/master/backend/alpha_vantage.py") file, inside ```backend``` directory.
+First alter the API key at line 8 in the [```alpha_vantage.py```](https://github.com/vinigalantine/quotation/blob/a5fdfcc3549456b1dd37f5a8534e0dd1094cf162/backend/alpha_vantage.py#L8) file, inside ```backend``` directory.
 
 Then using CMD/PS or Terminal application enter in this directory.
 
